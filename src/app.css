@@ -1,0 +1,9 @@
+body {
+    background-color: olivedrab;
+}
+
+.input-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
