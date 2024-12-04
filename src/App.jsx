@@ -1,3 +1,7 @@
+/*
+
+*/
+
 import { useState } from "react";
 import "./app.css";
 
@@ -10,7 +14,6 @@ function Home() {
   }
 
   function handleButton() {
-    console.log("button clicked");
     addTask();
     setTaskName("");
   }
